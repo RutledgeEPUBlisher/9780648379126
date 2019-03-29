@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="uuid:505f248d-3d9d-4422-a29c-ed383a2db20f" />
+    <meta name="dtb:depth" content="1" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+<docTitle>
+  <text>Rutledges of IRELAND</text>
+</docTitle>
+<navMap>
+  <navPoint id="navPoint1">
+    <navLabel>
+      <text>Titlepage</text>
+    </navLabel>
+    <content src="Text/titlepage.xhtml" />
+  </navPoint>
+  <navPoint id="navPoint2">
+    <navLabel>
+      <text>Copyright Page</text>
+    </navLabel>
+    <content src="Text/copyright.xhtml" />
+  </navPoint>
+  <navPoint id="navPoint3">
+    <navLabel>
+      <text>Dedication</text>
+    </navLabel>
+    <content src="Text/dedication.xhtml" />
+  </navPoint>
+  <navPoint id="navPoint4">
+    <navLabel>
+      <text>Series Page</text>
+    </navLabel>
+    <content src="Text/seriespage.xhtml" />
+  </navPoint>
+  <navPoint id="navPoint5">
+    <navLabel>
+      <text>Preface</text>
+    </navLabel>
+    <content src="Text/preface.xhtml" />
+  </navPoint>
+  <navPoint id="navPoint6">
+    <navLabel>
+      <text>About the Author</text>
+    </navLabel>
+    <content src="Text/aboutAuthor.xhtml" />
+  </navPoint>
+  <navPoint id="navPoint7">
+    <navLabel>
+      <text>Table of Contents</text>
+    </navLabel>
+    <content src="Text/TOC.xhtml" />
+  </navPoint>
+  <navPoint id="navPoint8">
+    <navLabel>
+      <text>Main Content</text>
+    </navLabel>
+    <content src="Text/content.xhtml" />
+  </navPoint>
+</navMap>
+</ncx>
