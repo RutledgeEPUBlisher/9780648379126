@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="3.0" unique-identifier="uuid_id" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title id="id">Rutledges of IRELAND</dc:title>
+    <meta property="file-as" refines="#id">Rutledges of IRELAND</meta>
+    <meta property="title-type" refines="#id">main</meta>
+    <dc:creator id="id-1">Troy Anthony Woolls Rutledge</dc:creator>
+    <meta property="file-as" refines="#id-1">Rutledge, Troy Anthony Woolls</meta>
+    <meta property="role" refines="#id-1" scheme="marc:relators">aut</meta>
+    <dc:rights>This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license.</dc:rights>
+    <dc:identifier>urn:isbn:9780648379126</dc:identifier>
+    <dc:language>en</dc:language>
+    <dc:date>2018-06-13T14:00:00+00:00</dc:date>
+    <meta property="belongs-to-collection" id="id-3">Rutledges in the Old Country</meta>
+    <meta property="collection-type" refines="#id-3">series</meta>
+    <meta property="group-position" refines="#id-3">3</meta>
+    <dc:identifier id="uid">urn:uuid:0aaab279-c47c-4e5f-b9d0-7c27a44cae54</dc:identifier>
+    <meta property="opf:scheme" refines="#uid">UUID</meta>
+    <dc:identifier id="uuid_id">uuid:505f248d-3d9d-4422-a29c-ed383a2db20f</dc:identifier>
+    <meta content="0.9.13" name="Sigil version" />
+    <meta property="dcterms:modified">2019-03-29T22:46:26Z</meta>
+    <meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 AA.</meta>
+    <meta property="schema:accessMode">textual</meta>
+    <meta property="schema:accessMode">visual</meta>
+    <meta property="schema:accessModeSufficient">textual</meta>
+    <meta property="schema:accessibilityFeature">structuralNavigation</meta>
+  </metadata>
+  <manifest>
+    <item id="Appendix-Google_Maps.xhtml" href="Text/Appendix-Google_Maps.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Combined_logo_prepublication_300dpi.jpg" href="Images/Combined_logo_prepublication_300dpi.jpg" media-type="image/jpeg"/>
+    <item id="Ireland-1600-Plantation_and_Settlement.png" href="Images/Ireland-1600-Plantation_and_Settlement.png" media-type="image/png"/>
+    <item id="Ireland-1700-Williamite_Ascendancy.png" href="Images/Ireland-1700-Williamite_Ascendancy.png" media-type="image/png"/>
+    <item id="TOC.xhtml" href="Text/TOC.xhtml" media-type="application/xhtml+xml"/>
+    <item id="aboutAuthor.xhtml" href="Text/aboutAuthor.xhtml" media-type="application/xhtml+xml"/>
+    <item id="content.xhtml" href="Text/content.xhtml" media-type="application/xhtml+xml"/>
+    <item id="copyright.xhtml" href="Text/copyright.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cover.jpg" href="Images/cover.jpg" media-type="image/jpeg"/>
+    <item id="cover.xhtml" href="Text/cover.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+    <item id="css" href="Styles/stylesheet.css" media-type="text/css"/>
+    <item id="dedication.xhtml" href="Text/dedication.xhtml" media-type="application/xhtml+xml"/>
+    <item id="nav" href="Text/nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="preface.xhtml" href="Text/preface.xhtml" media-type="application/xhtml+xml"/>
+    <item id="seriespage.xhtml" href="Text/seriespage.xhtml" media-type="application/xhtml+xml"/>
+    <item id="sgc-toc.css" href="Styles/sgc-toc.css" media-type="text/css"/>
+    <item id="Appendix-Counties_of_Ireland.xhtml" href="Text/Appendix-Counties_of_Ireland.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x819px-Ireland_trad_counties_named.svg.png" href="Images/819px-Ireland_trad_counties_named.svg.png" media-type="image/png"/>
+    <item id="x9780648379126.jpg" href="Images/9780648379126.jpg" media-type="image/jpeg"/>
+    <item id="x9780648379126_backcover.jpg" href="Images/9780648379126_backcover.jpg" media-type="image/jpeg"/>
+    <item id="x9780648379126_frontcover.jpg" href="Images/9780648379126_frontcover.jpg" media-type="image/jpeg"/>
+    <item id="Maoilderig.PNG" href="Images/Maoilderig.PNG" media-type="image/png"/>
+    <item id="Reddington.PNG" href="Images/Reddington.PNG" media-type="image/png"/>
+    <item id="Redington.PNG" href="Images/Redington.PNG" media-type="image/png"/>
+    <item id="Reid.PNG" href="Images/Reid.PNG" media-type="image/png"/>
+    <item id="Rutledge.PNG" href="Images/Rutledge.PNG" media-type="image/png"/>
+    <item id="Troy.PNG" href="Images/Troy.PNG" media-type="image/png"/>
+    <item id="titlepage.xhtml" href="Text/titlepage.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Tuamach-Regular.ttf.eot" href="Misc/Tuamach-Regular.ttf.eot" media-type="text/plain"/>
+    <item id="Tuamach-Regular.ttf.svg" href="Images/Tuamach-Regular.ttf.svg" media-type="image/svg+xml"/>
+    <item id="Tuamach-Regular.ttf.woff" href="Fonts/Tuamach-Regular.ttf.woff" media-type="application/font-woff"/>
+    <item id="xf8a02bf5-7726-4185-b417-cb098f24b3ac" href="Misc/Tuamach-Regular.ttf.eot" media-type="text/plain"/>
+    <item id="x78b4940a-6065-431e-9ded-74025e296f63" href="Images/Tuamach-Regular.ttf.svg" media-type="image/svg+xml"/>
+    <item id="xc77232b0-e0cf-4448-bdc1-17241f921ed6" href="Fonts/Tuamach-Regular.ttf.woff" media-type="application/font-woff"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="titlepage.xhtml"/>
+    <itemref idref="copyright.xhtml"/>
+    <itemref idref="dedication.xhtml"/>
+    <itemref idref="seriespage.xhtml"/>
+    <itemref idref="preface.xhtml"/>
+    <itemref idref="aboutAuthor.xhtml"/>
+    <itemref idref="nav"/>
+    <itemref idref="TOC.xhtml"/>
+    <itemref idref="content.xhtml"/>
+    <itemref idref="Appendix-Counties_of_Ireland.xhtml"/>
+    <itemref idref="Appendix-Google_Maps.xhtml"/>
+  </spine>
+  <guide>
+    <reference type="preface" title="Preface" href="Text/preface.xhtml"/>
+    <reference type="other.backmatter" title="" href="Text/Appendix-Google_Maps.xhtml"/>
+    <reference type="text" title="Text" href="Text/content.xhtml"/>
+    <reference type="toc" title="Table of Contents" href="Text/TOC.xhtml"/>
+    <reference type="dedication" title="Dedication" href="Text/dedication.xhtml"/>
+    <reference type="copyright-page" title="Copyright Page" href="Text/copyright.xhtml"/>
+    <reference type="title-page" title="Title Page" href="Text/titlepage.xhtml"/>
+    <reference type="cover" title="Cover" href="Text/cover.xhtml"/>
+  </guide>
+</package>
